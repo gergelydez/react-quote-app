@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-complete-guide"]=this["webpackJsonpreact-complete-guide"]||[]).push([[6],{51:function(e,r,t){e.exports={profile:"UserProfile_profile__2u0BO"}},54:function(e,r,t){"use strict";t.r(r);var c=t(51),i=t.n(c),o=t(0);r.default=function(){return Object(o.jsx)("section",{className:i.a.profile,children:Object(o.jsx)("h1",{children:"Your User Profile"})})}}}]);
+//# sourceMappingURL=6.6de62e18.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Profile/UserProfile.module.css"],"names":[],"mappings":"AAAA,4BACE,gBAAiB,CACjB,iBACF,CAEA,+BACE,cACF","file":"6.95aa91ff.chunk.css","sourcesContent":[".profile {\n  margin: 3rem auto;\n  text-align: center;\n}\n\n.profile h1 {\n  font-size: 5rem;\n}"]}
